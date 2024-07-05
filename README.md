@@ -4,6 +4,8 @@
 
 ### <div align="center">Hello!! 😉<br>I'm Matheus Freixo, a dedicated and passionate software engineering student</div>  
 
+<br>
+
 Welcome to my GitHub profile! Here, you'll find a showcase of my projects and skills. I am constantly learning and exploring new technologies to expand my knowledge and expertise.
 
 <br>
