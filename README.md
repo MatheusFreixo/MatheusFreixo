@@ -23,6 +23,7 @@ Welcome to my GitHub profile! Here, you'll find a showcase of my projects and sk
 
 ### 📚 Libraries and Frameworks  
 <div align="left">  
+<img style="margin: 10px" src="images/fastapi.png" alt="FastAPI" height="50" />  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>
 <a href="https://pandas.pydata.org/"><img  src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pandas-original.svg" alt="Pandas" height="50"/></a>
