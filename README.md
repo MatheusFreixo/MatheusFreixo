@@ -57,4 +57,4 @@ Welcome to my GitHub profile! Here, you'll find a showcase of my projects and sk
 <br/>  
 
 ## Stats
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFreixo&layout=compact&theme=" alt=MatheusFreixo />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFreixo)
