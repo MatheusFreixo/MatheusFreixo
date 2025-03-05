@@ -61,3 +61,4 @@ Welcome to my GitHub profile! Here, you'll find a showcase of my projects and sk
 
 ## Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFreixo)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusFreixo&show_icons=true&hide=stars)
