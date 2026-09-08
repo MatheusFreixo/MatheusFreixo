@@ -1,67 +1,85 @@
 <div align="center">
-<img src="images/dog_nft.png" align="center" style="width: 20%" />
+  <img src="images/dog_nft.png" align="center" style="width: 20%" />
 </div>
 
-### <div align="center">Hello!! 😉<br>I'm Matheus Freixo, a dedicated and passionate software engineering student</div>  
+# Hi, I'm Matheus 👋<br>
+### Software Engineer | Full-Stack · Distributed Systems · Blockchain
 
-<br>
+I'm a Software Engineer based in **Madrid, Spain**, currently pursuing an **MSc in Software Engineering at EPITECH**.
 
-Welcome to my GitHub profile! Here, you'll find a showcase of my projects and skills. I am constantly learning and exploring new technologies to expand my knowledge and expertise.
+I enjoy building and debugging production systems, especially when they involve **distributed systems, backend infrastructure, real-time data, and complex integrations**.
 
-<br>
+My experience includes working on Ethereum network infrastructure, modernizing legacy enterprise systems, and building full-stack applications.
 
-## Skills  
+---
 
-### 💻 Programming Languages  
-<div align="left">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
-</div>
+## 🛠️ Tech Stack
 
-### 📚 Libraries and Frameworks  
-<div align="left">  
-<img style="margin: 10px" src="images/fastapi.png" alt="FastAPI" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" />
-<img style="margin: 10px" src="https://github.com/dotnet/brand/blob/main/logo/dotnet-logo.svg" alt=".NET" height="50" />
-</div>
+**Languages**<br>
+C/C++ · Python · Java · Go · JavaScript · TypeScript
 
-### 🛠️ Tools  
-<div align="left">  
-<img style="margin: 10px" src="images/node_js.png" alt="NodeJS" height="50" />
-<img style="margin: 10px" src="images/mysql.svg" alt="MySQL" height="50" />
-<img style="margin: 10px" src="images/mongodb.png" alt="MongoDB" height="50" />
-<img style="margin: 10px" src="images/firebase.svg" alt="Firebase" height="50" />
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
-</div>
+**Frontend**<br>
+AngularJS · React
 
-<br/>  
+**Backend**<br>
+Spring Boot · .NET · FastAPI · REST APIs · OAuth2
+
+**Infrastructure & DevOps**<br>
+Docker · Kubernetes · Terraform · Git
+
+**Databases**<br>
+MySQL · PostgreSQL · MongoDB
+
+**AI & Data**<br>
+Python · RAG · Multi-Agent Systems
+
+---
+
+## 🚀 What I've worked on
+
+### 🌐 Ethereum & Distributed Systems
+
+At **MigaLabs**, I worked on Ethereum network infrastructure, debugging and improving a P2P crawler responsible for discovering nodes across multiple forks.
+
+I redesigned connection handling, improved retry strategies, rewrote network metadata parsing, and helped scale node discovery from **215 nodes to 8,000+ nodes across 10+ forks**.
+
+### 🏢 Enterprise Software
+
+At **NTT DATA Spain**, I worked on modernizing legacy systems for **Patrimonio Nacional**, covering frontend, backend, database architecture, REST APIs, and deployment workflows.
+
+I also contributed to **CertiDigital**, a digital accreditation platform for Spanish universities.
+
+### 🤖 AI & Multi-Agent Systems
+
+My current MSc final project is **Horus**, a multi-agent AI platform designed to automate cross-team workflows and reduce enterprise data silos using **Python, Docker, and Retrieval-Augmented Generation (RAG)**.
+
+---
+
+## 🎓 Education
+
+**MSc Software Engineering — EPITECH**<br>
+2025 – 2027
+
+**MSc Software Engineering — Koç University**<br>
+2025 – 2026 · Erasmus Academic Exchange
+
+**BSc Software Engineering — EPITECH**<br>
+2022 – 2025
+
+---
 
 ## 🌐 Connect with me  
+
 <div align="left">
-<a href="https://github.com/MatheusFreixo" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/matheusfreixo" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+  <a href="https://github.com/MatheusFreixo" target="_blank">
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://linkedin.com/in/matheusfreixo" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>
 </div>  
 
-<br/>  
-<!--
-## Stats
-![Anurag's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=MatheusFreixo&show_icons=true&hide=stars,issues&title_color=FB8C00&icon_color=FB8C00&hide_title=true&&include_all_commits=true)
 
-![Anurag's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=MatheusFreixo&show_icons=true&hide=stars&title_color=FB8C00&icon_color=FB8C00&hide_title=true&show=prs_merged)
+---
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=MatheusFreixo)
--->
+> Building software, learning constantly, and solving problems that are difficult for the right reasons.
