@@ -3,39 +3,45 @@
 </div>
 
 # Hi, I'm Matheus 👋<br>
-### Software Engineer | Full-Stack · Distributed Systems · Blockchain
+### Software Engineer | Backend · Distributed Systems · Full-Stack
 
 I'm a Software Engineer based in **Madrid, Spain**, currently pursuing an **MSc in Software Engineering at EPITECH**.
 
-I enjoy building and debugging production systems, especially when they involve **distributed systems, backend infrastructure, real-time data, and complex integrations**.
+I enjoy building and debugging production systems, especially when they involve **backend infrastructure, distributed systems, real-time data, and complex integrations**.
 
-My experience includes working on Ethereum network infrastructure, modernizing legacy enterprise systems, and building full-stack applications.
+My experience from Ethereum network infrastructure and production backend systems to enterprise software modernization and full-stack application development.
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages**<br>
-C/C++ · Python · Java · Go · JavaScript · TypeScript
+Go · C/C++ · C# · Python · Java · JavaScript · TypeScript
 
 **Frontend**<br>
-AngularJS · React
+AngularJS · React · Next.js
 
 **Backend**<br>
-Spring Boot · .NET · FastAPI · REST APIs · OAuth2
+Go · Spring Boot · .NET · FastAPI · REST APIs
 
 **Infrastructure & DevOps**<br>
-Docker · Kubernetes · Terraform · Git
+Docker · Git · CI/CD · Nginx · Prometheus · Grafana
 
 **Databases**<br>
-MySQL · PostgreSQL · MongoDB
+SQL · PostgreSQL · MySQL · MongoDB · Oracle
 
 **AI & Data**<br>
-Python · RAG · Multi-Agent Systems
+RAG · Multi-Agent Systems
 
 ---
 
 ## 🚀 What I've worked on
+
+### ⚙️ Software Engineering
+
+Designed and developed a complete digital platform from scratch using React, React Native, Go, PostgreSQL, and Docker, including a 7-service production infrastructure, CI/CD pipelines, and Prometheus/Grafana observability.
+
+Built a centralized backend with 65+ REST API endpoints supporting web and mobile applications.
 
 ### 🌐 Ethereum & Distributed Systems
 
@@ -65,6 +71,15 @@ My current MSc final project is **Horus**, a multi-agent AI platform designed to
 
 **BSc Software Engineering — EPITECH**<br>
 2022 – 2025
+
+---
+
+## 🌍 Languages
+
+🇵🇹 **Portuguese** (Native)<br>
+🇪🇸 **Spanish** (Bilingual)<br>
+🇬🇧 **English** (Fluent)<br>
+
 
 ---
 
